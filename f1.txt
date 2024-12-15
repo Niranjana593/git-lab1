@@ -3,3 +3,4 @@ hello
 Friday
 thursday
 git lab
+JNV shimoga 
