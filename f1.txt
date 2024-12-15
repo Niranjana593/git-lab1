@@ -4,3 +4,4 @@ Friday
 thursday
 git lab
 JNV shimoga 
+int main()
